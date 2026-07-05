@@ -28,8 +28,6 @@ The following screenshot demonstrates the successful deployment of the EasyShop 
 
 ![Kubernetes Deployment](screenshots/kubernetes-deployment.png)
 
----
-
 ### EasyShop Application
 
 The following screenshot shows the EasyShop application running successfully through NGINX Ingress.
