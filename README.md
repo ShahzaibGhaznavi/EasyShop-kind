@@ -1,3 +1,27 @@
+# EasyShop - Modern E-commerce Platform
+
+> ## My DevOps Contribution
+>
+> **Note:** The original EasyShop application was developed by **Md. Afzal Hassan Ehsani**.
+>
+> I forked this repository for learning purposes and used it to practice Docker, Kubernetes, AWS EC2, NGINX Ingress, Metrics Server, HPA, Cert-Manager, and Kubernetes troubleshooting.
+
+### My DevOps Work
+
+- Built and configured a Kind Kubernetes cluster on AWS EC2.
+- Built and pushed application and migration Docker images to Docker Hub.
+- Configured ConfigMaps and Secrets.
+- Deployed the application on Kubernetes.
+- Configured NGINX Ingress Controller with nip.io.
+- Installed Metrics Server and configured Horizontal Pod Autoscaler (HPA).
+- Executed Kubernetes Migration Job.
+- Configured HTTPS using Cert-Manager with a self-signed ClusterIssuer.
+- Troubleshot deployments using `kubectl logs`, `kubectl describe`, `kubectl exec`, and `kubectl get events`.
+
+---
+
+# (Original README continues below...)
+
 # 🛍️ EasyShop - Modern E-commerce Platform
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
