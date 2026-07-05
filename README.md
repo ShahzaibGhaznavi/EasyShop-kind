@@ -26,13 +26,13 @@
 
 The following screenshot demonstrates the successful deployment of the EasyShop application on Kubernetes, including Pods, Services, Ingress, Horizontal Pod Autoscaler (HPA), and Migration Job.
 
-![Kubernetes Deployment](screenshots/kubernetes-deployment.png)
+![Kubernetes Deployment](kubernetes-deployment.png)
 
 ### EasyShop Application
 
 The following screenshot shows the EasyShop application running successfully through NGINX Ingress.
 
-![EasyShop Application](screenshots/Easyshop-home-page.png)
+![EasyShop Application](Easyshop-home-page.png)
 
 ---
 
