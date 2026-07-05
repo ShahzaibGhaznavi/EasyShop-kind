@@ -34,7 +34,7 @@ The following screenshot demonstrates the successful deployment of the EasyShop 
 
 The following screenshot shows the EasyShop application running successfully through NGINX Ingress.
 
-![EasyShop Application](Easyshop-home-page.png)
+![EasyShop Application](screenshots/Easyshop-home-page.png)
 
 ---
 
